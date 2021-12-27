@@ -1,7 +1,5 @@
-
 ![image](https://user-images.githubusercontent.com/47408756/141670583-9aedb326-7adf-4030-9b40-9e0224d1d2c0.png)
 
-![image](https://user-images.githubusercontent.com/47408756/141693241-5a8323e2-6045-4a9b-a539-1f8151859689.png)
 
 ## Features 
 * Authentication - Google, Slack, Microsoft
